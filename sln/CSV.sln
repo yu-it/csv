@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CSV", "CSV\CSV.vbproj", "{C85B96E7-65AE-4F00-827F-07FA290BBCF1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CSVTest", "CSVTest\CSVTest.vbproj", "{D3FB1C64-4798-42C2-8C39-EE75DB451F33}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CSVViewer", "CSVViewer\CSVViewer.vbproj", "{9D12DC96-3097-4190-916A-245F713B28EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85B96E7-65AE-4F00-827F-07FA290BBCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85B96E7-65AE-4F00-827F-07FA290BBCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85B96E7-65AE-4F00-827F-07FA290BBCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85B96E7-65AE-4F00-827F-07FA290BBCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FB1C64-4798-42C2-8C39-EE75DB451F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FB1C64-4798-42C2-8C39-EE75DB451F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FB1C64-4798-42C2-8C39-EE75DB451F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FB1C64-4798-42C2-8C39-EE75DB451F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D12DC96-3097-4190-916A-245F713B28EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D12DC96-3097-4190-916A-245F713B28EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D12DC96-3097-4190-916A-245F713B28EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D12DC96-3097-4190-916A-245F713B28EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
